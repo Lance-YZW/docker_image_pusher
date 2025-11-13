@@ -1,2 +1,2 @@
 ubuntu:22.04
-n8n:latest
+docker.n8n.io/n8nio/n8n
