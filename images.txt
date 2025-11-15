@@ -1,1 +1,1 @@
-k8s.io/kube-proxy
+mysql:8.0
